@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/dcgutierrez93/Authors#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "sequelize": "^4.22.6",
     "sequelize-cli": "^3.0.0"
   }
